@@ -1,0 +1,13 @@
+Tests
+
+I ran the provided checker with the following commands
+python cp1_checker.py localhost 9999 10 10 10 10
+python cp1_checker.py localhost 9999 100 100 100 100
+python cp1_checker.py localhost 9999 100 10 2000 250
+python cp1_checker.py localhost 9999 100 10 2000 300
+python cp1_checker.py localhost 9999 100 10 2000 400
+python cp1_checker.py localhost 9999 100 100 2000 250
+python cp1_checker.py localhost 9999 100 200 2000 250
+python cp1_checker.py localhost 9999 100 250 2000 250
+python cp1_checker.py localhost 9999 100 300 2000 250
+
